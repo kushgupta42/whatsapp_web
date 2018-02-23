@@ -1,2 +1,2 @@
 # whatsapp_web
-automaticall opens whatsapp in browser when you use command whatsapp
+automatically open whatsapp in browser when you use command "whatsapp" in terminal
